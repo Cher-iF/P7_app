@@ -5,4 +5,4 @@ pandas==1.4.2
 regex==2022.3.15
 scikit_learn==1.1.2
 streamlit==1.12.2
-PIL == 9.0.1
+Pillow == 9.0.1
